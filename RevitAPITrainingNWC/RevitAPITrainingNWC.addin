@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\APPLICATIONS\RevitAPITraining\RevitAPITrainingNWC.dll"</Assembly>
+		<AddInId>1F380846-CAB5-4A37-A545-F65655FC5A29</AddInId>
+		<FullClassName>RevitAPITrainingNWC.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>NWC</Text>
+	</AddIn>
+</RevitAddIns>
